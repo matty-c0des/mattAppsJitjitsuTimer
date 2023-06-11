@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">mattAppsJitjitsuTimer</string>
+    <string name="scorekeeper_test">Scorekeeper Testing!</string>
+    <string name="scorekeeper_directions">Do some scorekeeping!</string>
+</resources>
