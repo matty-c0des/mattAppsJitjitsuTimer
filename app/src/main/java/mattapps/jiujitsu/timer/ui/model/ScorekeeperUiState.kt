@@ -1,8 +1,5 @@
 package mattapps.jiujitsu.timer.ui.model
 
-import mattapps.jiujitsu.timer.ui.timersetComponents.TimeState
-import mattapps.jiujitsu.timer.ui.timersetComponents.TimeUnit
-
 data class ScorekeeperUiState (
     val competitor1Score: Int = 0,
     val competitor1Adv: Int = 0,
